@@ -1,0 +1,51 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+#home {
+	background-color: #333;
+	height: 250px;
+	color: white;
+	text-align: center;
+	margin: 0;
+}
+#home h1 {
+	margin: 0;
+	padding-top: 85px;
+}
+#menu {
+	position: absolute;
+	top: 200px;
+	width: 100%;
+	background-color: #444;
+	font-size: 1.1em;
+	letter-spacing: .07em;
+	line-height: 50px;
+	text-align: center;
+}
+#menu a {
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	padding: 0 10px;
+}
+#menu a:hover {
+	background-color: #777;
+}
+#menu a.active {
+	background-color: #666;
+}
+#menu.fixed {
+	position: fixed;
+	top: 0;
+}
+.page {
+	padding: 40px 0;
+	background-color: #eee;
+	color: #333;
+	text-align: center;
+	border-bottom: 2px dotted #999;
+}
+p {
+	margin: 200px 0;
+}
