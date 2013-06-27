@@ -1,4 +1,4 @@
 jquery.tripwire.js
 ==================
 
-A convenient abstraction for dealing with offsets and scroll-based behavior with jQuery.
+A convenient abstraction for crafting rich user experiences based on scrolling, resizing, and custom-defined interactions.
